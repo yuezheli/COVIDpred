@@ -1,0 +1,5 @@
+COVID-19_open_line_list.csv: 
+COVID patients by country, gender, and age;
+
+time_series_covid_19_confirmed_US.csv:
+COVID diagnosis in US, by time and by state; this is daily new diagnosis
